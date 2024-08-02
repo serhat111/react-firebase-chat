@@ -11,6 +11,9 @@
     right: 0;
     margin: auto;
 
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
     form{
         display: flex;
         gap: 20px;
